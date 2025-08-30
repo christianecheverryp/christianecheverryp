@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 -->
 
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<p align="center" ><img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /></p>
+  
 
 
   
+  <br/>
   <br/>
   <br/>
   
