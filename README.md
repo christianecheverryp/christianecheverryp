@@ -17,20 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br />
+
 <p align="center" ><img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /></p>
-  
-
-
-  
-  <br/>
-  <br/>
-  <br/>
-  
-  <p align="center" ><img align="center" src="https://www.codewars.com/users/chrisep/badges/large" alt="codewars" /></p>
-  
-  <br/>
-  
+<p align="center" ><img align="center" src="https://www.codewars.com/users/chrisep/badges/large" alt="codewars" /></p>
+    
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
